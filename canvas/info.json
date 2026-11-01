@@ -1,0 +1,15 @@
+{
+    "author": [
+        "snailsquid"
+    ],
+    "name": "Canvas",
+    "short": "Renders JSON layout trees (rows, columns, boxes, text, progress bars, grids) to PNG with Pillow",
+    "description": "Renders JSON layout trees (rows, columns, boxes, text, progress bars, grids) to PNG with Pillow",
+    "end_user_data_statement": "This cog does not persistently store data about users.",
+    "requirements": [],
+    "tags": [],
+    "min_bot_version": "3.5.0",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}

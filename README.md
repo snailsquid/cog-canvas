@@ -1,19 +1,19 @@
-# mycog
+# canvas
 
-Example cog created from `cog-template`. Replace this README when you build the real cog.
+Example cog created by new-cog. Replace this README when you build the real cog.
 
 ## Commands
 
 | Command | Who | What |
 |---|---|---|
-| `[p]mycog` | anyone | Says hello and increments a counter. |
-| `[p]mycog reset` | owner | Resets the counter. |
+| `[p]canvas` | anyone | Says hello and increments a counter. |
+| `[p]canvas reset` | owner | Resets the counter. |
 
 ## Events emitted
 
 | Event | Listener signature | When |
 |---|---|---|
-| `mycog_hello` | `on_mycog_hello(self, user: discord.abc.User, count: int)` | After `[p]mycog` runs. |
+| `canvas_hello` | `on_canvas_hello(self, user: discord.abc.User, count: int)` | After `[p]canvas` runs. |
 
 ## Public methods
 
